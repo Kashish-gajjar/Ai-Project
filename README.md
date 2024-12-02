@@ -32,4 +32,7 @@ Identified a positive correlation between healthcare spending and life expectanc
 
 ## CHALLENGES FACED:
 1. Data cleaning and handling missing values.
-2. Interpreting regional differences and anomalies in the dataset.
+2. Scaling Issues.
+3. Handling Large Datasets.
+4. Visualization Clarity.
+5. Interpreting regional differences and anomalies in the dataset.
