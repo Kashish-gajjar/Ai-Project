@@ -25,9 +25,9 @@ Publicly available datasets on healthcare spending and life expectancy from:
 3. Run the Jupyter Notebook or Python script for data analysis: python main.py.
 
 # SUMMARY:
-. Identified a positive correlation between healthcare spending and life expectancy.
-. Developed regression models to predict life expectancy based on spending.
+Identified a positive correlation between healthcare spending and life expectancy.Developed regression models to predict life expectancy based on spending.One of the biggest challenges was the inconsistency and incompleteness of data across countries, especially for lower-income nations. Some countries lack detailed or up-to-date information on healthcare spending or life expectancy.
+
 
 # CHALLENGES FACED:
-. Data cleaning and handling missing values.
-. Interpreting regional differences and anomalies in the dataset.
+1. Data cleaning and handling missing values.
+2. Interpreting regional differences and anomalies in the dataset.
