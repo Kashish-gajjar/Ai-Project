@@ -6,5 +6,11 @@
 ### Kathan doshi : ku2407u
 ### Jai narayan singh : ku2407u
 
+# OBJECTIVE:
+The primary goal of this project is to analyze the relationship between healthcare spending and life expectancy across various countries. We aim to investigate whether higher healthcare expenditures result in higher life expectancy or if other factors, such as healthcare system efficiency, income inequality, and lifestyle choices, have a more significant influence on a nation's longevity.
 
+# TOOLS AND LIBRARIES USED:
+1. Python 3.x
+2. Pandas
+3. Matplotlib
 
