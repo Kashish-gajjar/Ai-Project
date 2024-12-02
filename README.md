@@ -21,7 +21,7 @@ Publicly available datasets on healthcare spending and life expectancy from:
 ## EXECUTION STEPS:
 1. Clone the repository.
 2. Install required libraries: pip install -r requirements.txt.
-3. Run the google colabe or Python script for data analysis: python main.py.
+3. Run the google colab or Python script for data analysis: python main.py.
 
 ## SUMMARY:
 Identified a positive correlation between healthcare spending and life expectancy.Developed regression models to predict life expectancy based on spending.One of the biggest challenges was the inconsistency and incompleteness of data across countries, especially for lower-income nations. Some countries lack detailed or up-to-date information on healthcare spending or life expectancy.
