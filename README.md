@@ -1,10 +1,10 @@
 # HEALTHCARE SPENDING VS LIFE EXPENTENCY:
 
 ## CONTRIBUTION:
-### Kahish gajjar : ku2407u484
-### Jeet patel : ku2407u483
-### Kathan doshi : ku2407u485
-### Jai narayan singh : ku2407u482
+### Kahish Gajjar : ku2407u484
+### Jeet Patel : ku2407u483
+### Kathan Doshi : ku2407u485
+### Jai Narayan Singh : ku2407u482
 
 ## OBJECTIVE:
 The primary goal of this project is to analyze the relationship between healthcare spending and life expectancy across various countries. We aim to investigate whether higher healthcare expenditures result in higher life expectancy or if other factors, such as healthcare system efficiency, income inequality, and lifestyle choices, have a more significant influence on a nation's longevity.
