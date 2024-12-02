@@ -6,28 +6,27 @@
 ### Kathan doshi : ku2407u
 ### Jai narayan singh : ku2407u
 
-# OBJECTIVE:
+## OBJECTIVE:
 The primary goal of this project is to analyze the relationship between healthcare spending and life expectancy across various countries. We aim to investigate whether higher healthcare expenditures result in higher life expectancy or if other factors, such as healthcare system efficiency, income inequality, and lifestyle choices, have a more significant influence on a nation's longevity.
 
-# TOOLS AND LIBRARIES USED:
+## TOOLS AND LIBRARIES USED:
 1. Python 3.x
 2. Pandas
 3. Matplotlib
 
-# DATA SOURCE:
+## DATA SOURCE:
 Publicly available datasets on healthcare spending and life expectancy from:
 1. World Bank
 2. WHO
 
-# EXECUTION STEPS:
+## EXECUTION STEPS:
 1. Clone the repository.
 2. Install required libraries: pip install -r requirements.txt.
 3. Run the Jupyter Notebook or Python script for data analysis: python main.py.
 
-# SUMMARY:
+## SUMMARY:
 Identified a positive correlation between healthcare spending and life expectancy.Developed regression models to predict life expectancy based on spending.One of the biggest challenges was the inconsistency and incompleteness of data across countries, especially for lower-income nations. Some countries lack detailed or up-to-date information on healthcare spending or life expectancy.
 
-
-# CHALLENGES FACED:
+## CHALLENGES FACED:
 1. Data cleaning and handling missing values.
 2. Interpreting regional differences and anomalies in the dataset.
